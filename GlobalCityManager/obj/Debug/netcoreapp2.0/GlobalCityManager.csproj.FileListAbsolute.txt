@@ -1,0 +1,11 @@
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/bin/Debug/netcoreapp2.0/GlobalCityManager.deps.json
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/bin/Debug/netcoreapp2.0/GlobalCityManager.runtimeconfig.json
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/bin/Debug/netcoreapp2.0/GlobalCityManager.runtimeconfig.dev.json
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/bin/Debug/netcoreapp2.0/GlobalCityManager.dll
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/bin/Debug/netcoreapp2.0/GlobalCityManager.pdb
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/obj/Debug/netcoreapp2.0/GlobalCityManager.csprojAssemblyReference.cache
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/obj/Debug/netcoreapp2.0/GlobalCityManager.csproj.CoreCompileInputs.cache
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/obj/Debug/netcoreapp2.0/GlobalCityManager.AssemblyInfoInputs.cache
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/obj/Debug/netcoreapp2.0/GlobalCityManager.AssemblyInfo.cs
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/obj/Debug/netcoreapp2.0/GlobalCityManager.dll
+/Users/serhiikorol/Documents/Projects/GlobalCityManager/obj/Debug/netcoreapp2.0/GlobalCityManager.pdb

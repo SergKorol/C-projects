@@ -1,0 +1,22 @@
+﻿@model GlobalCityManager.Models.Country
+
+<h1>Country Details</h1>
+
+<table border="1">
+    <tr>
+        <td>@Html.DisplayNameFor(country => country.Code):</td>
+        <td>@Html.DisplayFor(country => country.Code)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(country => country.Name):</td>
+        <td>@Html.DisplayFor(country => country.Name)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(country => country.Region):</td>
+        <td>@Html.DisplayFor(country => country.Region)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(country => country.NationalFlag):</td>
+        <td><img src="@Model.NationalFlag" /></td>
+    </tr>
+</table>
