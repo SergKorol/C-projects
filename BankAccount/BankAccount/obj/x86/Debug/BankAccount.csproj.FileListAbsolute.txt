@@ -1,0 +1,6 @@
+/Users/serhiikorol/Projects/BankAccount/BankAccount/obj/x86/Debug/BankAccount.csprojAssemblyReference.cache
+/Users/serhiikorol/Projects/BankAccount/BankAccount/obj/x86/Debug/BankAccount.csproj.CoreCompileInputs.cache
+/Users/serhiikorol/Projects/BankAccount/BankAccount/bin/Debug/BankAccount.exe
+/Users/serhiikorol/Projects/BankAccount/BankAccount/bin/Debug/BankAccount.pdb
+/Users/serhiikorol/Projects/BankAccount/BankAccount/obj/x86/Debug/BankAccount.exe
+/Users/serhiikorol/Projects/BankAccount/BankAccount/obj/x86/Debug/BankAccount.pdb
