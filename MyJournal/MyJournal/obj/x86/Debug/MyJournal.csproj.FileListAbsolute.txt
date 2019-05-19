@@ -1,0 +1,6 @@
+/Users/serhiikorol/Projects/MyJournal/MyJournal/bin/Debug/MyJournal.exe
+/Users/serhiikorol/Projects/MyJournal/MyJournal/bin/Debug/MyJournal.pdb
+/Users/serhiikorol/Projects/MyJournal/MyJournal/obj/x86/Debug/MyJournal.csprojAssemblyReference.cache
+/Users/serhiikorol/Projects/MyJournal/MyJournal/obj/x86/Debug/MyJournal.csproj.CoreCompileInputs.cache
+/Users/serhiikorol/Projects/MyJournal/MyJournal/obj/x86/Debug/MyJournal.exe
+/Users/serhiikorol/Projects/MyJournal/MyJournal/obj/x86/Debug/MyJournal.pdb
