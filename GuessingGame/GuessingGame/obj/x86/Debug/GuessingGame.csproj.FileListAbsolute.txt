@@ -1,0 +1,6 @@
+/Users/serhiikorol/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.exe
+/Users/serhiikorol/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.pdb
+/Users/serhiikorol/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.csprojAssemblyReference.cache
+/Users/serhiikorol/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/serhiikorol/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.exe
+/Users/serhiikorol/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.pdb
