@@ -1,0 +1,6 @@
+/Users/serhiikorol/Projects/Shapes/Shapes/bin/Debug/Shapes.exe
+/Users/serhiikorol/Projects/Shapes/Shapes/bin/Debug/Shapes.pdb
+/Users/serhiikorol/Projects/Shapes/Shapes/obj/x86/Debug/Shapes.csprojAssemblyReference.cache
+/Users/serhiikorol/Projects/Shapes/Shapes/obj/x86/Debug/Shapes.csproj.CoreCompileInputs.cache
+/Users/serhiikorol/Projects/Shapes/Shapes/obj/x86/Debug/Shapes.exe
+/Users/serhiikorol/Projects/Shapes/Shapes/obj/x86/Debug/Shapes.pdb

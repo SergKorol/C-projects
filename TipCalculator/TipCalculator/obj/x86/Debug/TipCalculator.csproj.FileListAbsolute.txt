@@ -1,0 +1,6 @@
+/Users/serhiikorol/Projects/TipCalculator/TipCalculator/obj/x86/Debug/TipCalculator.csprojAssemblyReference.cache
+/Users/serhiikorol/Projects/TipCalculator/TipCalculator/obj/x86/Debug/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/serhiikorol/Projects/TipCalculator/TipCalculator/bin/Debug/TipCalculator.exe
+/Users/serhiikorol/Projects/TipCalculator/TipCalculator/bin/Debug/TipCalculator.pdb
+/Users/serhiikorol/Projects/TipCalculator/TipCalculator/obj/x86/Debug/TipCalculator.exe
+/Users/serhiikorol/Projects/TipCalculator/TipCalculator/obj/x86/Debug/TipCalculator.pdb
